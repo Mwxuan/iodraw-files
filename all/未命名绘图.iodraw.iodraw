@@ -28,8 +28,11 @@
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-12" value="评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="360" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-13" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="370" width="20" height="120" as="geometry" />
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-13" value="收藏管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-14" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
