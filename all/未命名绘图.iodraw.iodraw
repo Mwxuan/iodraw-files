@@ -76,6 +76,12 @@
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-31" value="查看推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-32" value="AI生成旅游方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-33" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="360" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
