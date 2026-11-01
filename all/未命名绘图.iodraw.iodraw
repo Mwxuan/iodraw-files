@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-1" value="基于SpringBoot+Vue的AI旅游助手系统" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-1" value="基于SpringBoot+Vue的AI旅游助手系统" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="324" y="240" width="276" height="20" as="geometry" />
         </mxCell>
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-6" target="va3fsbfF8Yzg5neBJ2KJ-8">
