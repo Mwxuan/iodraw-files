@@ -168,6 +168,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-7" target="va3fsbfF8Yzg5neBJ2KJ-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="340" />
+              <mxPoint x="760" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-7" target="va3fsbfF8Yzg5neBJ2KJ-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="340" />
+              <mxPoint x="790" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-7" target="va3fsbfF8Yzg5neBJ2KJ-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
