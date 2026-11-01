@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-1" target="va3fsbfF8Yzg5neBJ2KJ-6">
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-1" target="va3fsbfF8Yzg5neBJ2KJ-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="462" y="280" />
@@ -22,6 +22,9 @@
         </mxCell>
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-1" value="基于SpringBoot+Vue的AI旅游助手系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="324" y="240" width="276" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="va3fsbfF8Yzg5neBJ2KJ-6" target="va3fsbfF8Yzg5neBJ2KJ-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-6" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="300" width="70" height="20" as="geometry" />
