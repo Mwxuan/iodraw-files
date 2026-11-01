@@ -49,6 +49,9 @@
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-21" value="智能推荐管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-22" value="AI方案生成管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
