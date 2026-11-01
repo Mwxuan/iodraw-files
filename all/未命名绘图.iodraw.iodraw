@@ -52,6 +52,9 @@
         <mxCell id="va3fsbfF8Yzg5neBJ2KJ-22" value="AI方案生成管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="va3fsbfF8Yzg5neBJ2KJ-23" value="浏览景点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
